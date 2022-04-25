@@ -1,6 +1,6 @@
 <?php
 
-$token = '5372285361:AAE621Dmdufeu6z3bRDJbHpIEMAI-2KkTn0';
+$token = '5353507266:AAFWSvRlIgIuNR_D8KtBgKT_UHytXH1l-jQ';
 
 $url = 'https://api.telegram.org/bot' . $token;
 
